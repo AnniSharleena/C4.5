@@ -1,0 +1,11 @@
+Age,Income,Region,Credit_rating,Buy_Mobile
+18,high,USA,Low,no
+15,high,USA,High,no
+24,high,USA,Low,yes
+56,medium,USA,Low,yes
+60,low,UK,Low,yes
+72,low,UK,High,no
+35,low,UK,High,yes
+19,medium,USA,Low,no
+10,low,UK,Low,yes
+50,medium,UK,Low,yes
